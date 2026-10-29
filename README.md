@@ -1,4 +1,5 @@
 # AstrBot Meme Deploy
+📄 配套文章：[AstrBot 表情包排障实录](https://blog.csdn.net/FunkNJazz/article/details/169456616)
 
 > 给 AstrBot 的 meme_manager 插件批量部署表情包，并解决「装了却不发图」的三处配置问题。
 
